@@ -7,8 +7,6 @@
 
 char auth[] = "       "; //Enter the Auth code which was send by Blink
 
-// Your WiFi credentials.
-// Set password to "" for open networks.
 char ssid[] = "dlink-34C";  
 char pass[] = "lnbfu70340";  
 
